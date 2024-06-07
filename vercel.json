@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "(.*)",
-      "destination": "@/app/dashboard"
+      "destination": "@/app/dashboard/(overview)"
     }
   ]
 }
